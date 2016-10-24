@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Semana2</string>
+    <string name="nombres">Nombre Completo</string>
+    <string name="hint_nombres">Nombre Completo</string>
+    <string name="hint_fecha">Fecha Nacimiento</string>
+    <string name="hint_telefono">Telefono</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_descripcion">Descripcion Contacto</string>
+    <string name="fecha_nacimiento">Fecha Nacimiento:</string>
+    <string name="telefono">Telefono:</string>
+    <string name="email">Email:</string>
+    <string name="descripcion">Descripción:</string>
+    <string name="pnombres">nombres</string>
+    <string name="ptelefono">telefono</string>
+    <string name="pemail">email</string>
+    <string name="pfecha">fecha</string>
+    <string name="pdescripcion">descripcion</string>
+</resources>
